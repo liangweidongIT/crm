@@ -9,6 +9,7 @@ public class McUserControler {
 	public String login(){
 		System.out.print("aaaaaaaaaaaaaaaaaa");
 		System.out.print("bbbbbbbbbbbbbbbbbb");
+		System.out.print("cccccccccccccccccc");
 		return "index";
 	}
 }
