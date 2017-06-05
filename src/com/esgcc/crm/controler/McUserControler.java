@@ -10,6 +10,7 @@ public class McUserControler {
 		System.out.print("aaaaaaaaaaaaaaaaaa");
 		System.out.print("bbbbbbbbbbbbbbbbbb");
 		System.out.print("cccccccccccccccccc");
+		System.out.print("cccccccccccccccccc");
 		return "index";
 	}
 }
